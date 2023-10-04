@@ -1,0 +1,45 @@
+body{
+    background-color: #D0DAF1;
+}
+.navbar-nav{
+    font-family: 'Poiret One', cursive;
+    font-size: 30px;
+    text-shadow: 1px 1px 1px white;
+}
+.navbar-brand{
+    font-family: 'Monoton', cursive;
+    font-size: 30px;
+    text-shadow: 2px 2px 2px white;
+}
+.dropdown-item{
+	color: black !important;
+}
+.img-thumbnail {
+    margin-bottom: 35px;
+  }
+  
+  .flex {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .jumbo-picture {
+    background-image: url('../assets/images/peakpx\ \(59\).jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+  }
+  
+  .jumbo-picture > h1 {
+    color: white;
+    font-size: 70px;
+    font-family: 'Dancing Script', cursive;
+    text-shadow: 2px 2px 2px black;
+  }
+  
+  .jumbo-picture > p {
+    color: white;
+    font-size: 50px;
+    font-family: 'Poiret One', cursive;
+    text-shadow: 2px 2px 2px black;
+  }

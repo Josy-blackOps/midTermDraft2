@@ -1,0 +1,63 @@
+.navbar-nav{
+    font-family: 'Poiret One', cursive;
+    font-size: 30px;
+    text-shadow: 1px 1px 1px white;
+}
+.navbar-brand{
+    font-family: 'Monoton', cursive;
+    font-size: 30px;
+    text-shadow: 2px 2px 2px white;
+}
+.nav-link{
+    color: white !important;
+}
+.dropdown-item{
+	color: black !important;
+}
+body{
+    background-image: url('../assets/images/peakpx\ \(22\).jpg');
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    background-color: beige;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 150px;
+    text-shadow: 3px 3px 3px #6C0E23;
+}
+.sub-heading{
+    font-family: 'Dancing Script', cursive;
+    font-size: 95px;
+    text-shadow: 2px 2px 2px black;
+}
+h3{
+	font-family: 'Poiret One', cursive;
+    font-size: 50px;
+	text-shadow: 2px 2px 2px black;
+}
+.container-fluid{
+    text-align: center;
+}
+.table{
+    height: 600px;
+}
+.linked{
+    text-decoration: none;
+	color: crimson;
+}
+.accordion-button{
+    font-size: x-large;
+    font-family: 'Poiret One', cursive;
+}
+.links{
+    text-decoration: none;
+}
+.accordion{
+    height: 800px;
+}
+.accordion-button{
+    height: 100px;
+}
